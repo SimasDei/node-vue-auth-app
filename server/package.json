@@ -1,0 +1,27 @@
+{
+  "name": "node-vue-auth-app",
+  "version": "1.0.0",
+  "description": "App made with node express mongodb and vue",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "volleyball": "^1.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimasDei/node-vue-auth-app.git"
+  },
+  "author": "SimasDei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimasDei/node-vue-auth-app/issues"
+  },
+  "homepage": "https://github.com/SimasDei/node-vue-auth-app#readme"
+}
